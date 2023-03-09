@@ -1,0 +1,23 @@
+O carro percorre a distância de 100km a uma velocidade de 110km/h, o que leva:
+
+t1 = 100 / 110 = 0,91 horas
+
+O caminhão percorre a mesma distância, mas com duas paradas nos pedágios, o que aumenta o tempo total de 
+viagem em 10 minutos (5 minutos para cada pedágio). Portanto, o tempo total que o caminhão leva para
+percorrer a distância de 100km é:
+
+t2 = (100 / 80) + (10/60) = 1,38 horas
+
+Quando os veículos se encontrarem, cada um terá percorrido uma distância 
+igual a metade da distância total entre as cidades, ou seja, 50km.
+
+O carro leva 0,91 horas para percorrer esses 50km, o que dá uma velocidade média de:
+
+v1 = 50 / 0,91 = 54,9 km/h
+
+O caminhão leva 1,38 horas para percorrer esses mesmos 50km, o que dá uma velocidade média de:
+
+v2 = 50 / 1,38 = 36,2 km/h
+
+Portanto, quando os veículos se encontrarem, o carro estará mais próximo da cidade de 
+Ribeirão Preto, já que sua velocidade média é maior do que a do caminhão.
